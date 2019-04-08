@@ -1,0 +1,18 @@
+{
+  "name": "faraz891-trialmodule",
+  "version": "0.1.0",
+  "author": "faraz891",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/faraz891/trialmodule.git",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
